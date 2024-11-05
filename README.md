@@ -1,5 +1,5 @@
 这是一个非常基础的HID Message Analyser，主要的作用是用于解析SigmaBus的消息，用于调试和测试，所有的核心内容都封装在DataPackage.h 和 .cpp中，主要内容见接口
-
+```
 #pragma once
 
 
@@ -91,3 +91,4 @@ private:
 
 	QQueue<QByteArray> SplitCoalescingPacket(const QByteArray& arr);		//处理粘包数据 
 };
+```
