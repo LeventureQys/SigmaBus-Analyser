@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HIDMessageAnalyser", "HIDMessageAnalyser\HIDMessageAnalyser.vcxproj", "{1FCA3931-BDFC-4780-AE8B-92CDC05174D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FCA3931-BDFC-4780-AE8B-92CDC05174D4}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FCA3931-BDFC-4780-AE8B-92CDC05174D4}.Debug|x86.Build.0 = Debug|Win32
+		{1FCA3931-BDFC-4780-AE8B-92CDC05174D4}.Release|x86.ActiveCfg = Release|Win32
+		{1FCA3931-BDFC-4780-AE8B-92CDC05174D4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FEAF1B5-7870-410A-BD52-12FA33AEC7B1}
+	EndGlobalSection
+EndGlobal
